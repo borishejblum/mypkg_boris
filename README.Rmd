@@ -5,7 +5,8 @@ output: github_document
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 
-# mypkg_Boris is ther e a conflict here ?
+
+# mypkg_Boris no more conflict
 
 <!-- badges: start -->
 <!-- badges: end -->
