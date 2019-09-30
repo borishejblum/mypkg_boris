@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# mypkg\_Boris
+# mypkg\_Boris is ther e a conflict here ?
 
 <!-- badges: start -->
 
