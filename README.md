@@ -19,3 +19,5 @@ You can install the latest version of `mypkg_boris` from
 #install.packages("devtools")
 devtools::install_github(borishejblum/mypkg_boris)
 ```
+
+This is the update from Arul
